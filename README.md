@@ -3,3 +3,6 @@ The project aims to create a Hospital Management System focused on optimizing st
 Users will have the ability to view their schedules, request leaves, and receive approvals from administrators. In emergency situations, a dedicated on-call doctor will be assigned, ensuring swift and efficient patient care.
 By leveraging AI-based scheduling, the system aims to improve operational efficiency, reduce scheduling conflicts, and enhance overall patient experience. The algorithm will dynamically adjust schedules to accommodate leave requests, minimizing disruptions in day-to-day operations.
 
+
+*************For More Information Refer To PPT that has been uploaded************
+
